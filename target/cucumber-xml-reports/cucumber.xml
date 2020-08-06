@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite failures="0" name="cucumber.runtime.formatter.JUnitFormatter" skipped="0" tests="1" time="10.296847">
+<testcase classname="Login page feature" name="Verify invalid login from hubspot page" time="10.296847">
+<system-out><![CDATA[Given I am on hubspot login page............................................passed
+When I enter adem@sample.com into username field on the hubspot page........passed
+And I enter test123 into password field on the hubspot page.................passed
+And I click on login button on hubspot page.................................passed
+Then I verify invalid login message on login page...........................passed
+]]></system-out>
+</testcase>
+</testsuite>
